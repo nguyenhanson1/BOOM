@@ -1,0 +1,10 @@
+D:\Repos\BOOM\BOOM\Intermediate\Build\Win64\UE4Editor\Development\BOOM\Definitions.BOOM.h
+D:\EpicGame\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\EpicGame\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Repos\BOOM\BOOM\Source\BOOM/BOOMHUD.h
+D:\EpicGame\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+D:\EpicGame\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+D:\EpicGame\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+D:\EpicGame\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+D:\EpicGame\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+d:\repos\boom\boom\intermediate\build\win64\ue4editor\inc\boom\BOOMHUD.generated.h

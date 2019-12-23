@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BOOM.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B179800F-7701-4830-9976-DAED17D8D7D5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BOOM.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BOOMEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{0A16C345-CB74-4C0E-92F6-A8E213627ADC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BOOM">
+      <UniqueIdentifier>{A31C9D06-075D-497E-938D-FE5EE9D91393}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BOOM\BOOM.Build.cs">
+      <Filter>Source\BOOM</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BOOM\BOOM.cpp">
+      <Filter>Source\BOOM</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BOOM\BOOM.h">
+      <Filter>Source\BOOM</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

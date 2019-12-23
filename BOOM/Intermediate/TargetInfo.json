@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BOOM",
+			"Path": "D:\\Repos\\BOOM\\BOOM\\Source\\BOOM.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BOOMEditor",
+			"Path": "D:\\Repos\\BOOM\\BOOM\\Source\\BOOMEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

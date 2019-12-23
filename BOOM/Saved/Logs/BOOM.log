@@ -701,3 +701,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.23-18.40.32:990][545]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
 [2019.12.23-18.40.36:559][850]LogSlate: Window 'FirstPersonCharacter' being destroyed
 [2019.12.23-18.40.37:586][964]LogRenderer: Reallocating scene render targets to support 1184x788 Format 10 NumSamples 1 (Frame:1).
+[2019.12.23-18.48.48:475][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.12.23-18.48.48:758][383]LogSavePackage: Moving '../../../../../Repos/BOOM/BOOM/Saved/FirstPersonExampleMapCF811F7A4B5B3024F0554EB279839458.tmp' to '../../../../../Repos/BOOM/BOOM/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2019.12.23-18.48.49:729][383]LogSavePackage: Moving '../../../../../Repos/BOOM/BOOM/Saved/FirstPersonExampleMap_BuiltData97EB75294345E054E303018E49C85D05.tmp' to '../../../../../Repos/BOOM/BOOM/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.12.23-18.48.49:764][383]AssetCheck: New page: Asset Save: multiple assets
+[2019.12.23-18.48.49:764][383]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2019.12.23-18.48.49:764][383]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData

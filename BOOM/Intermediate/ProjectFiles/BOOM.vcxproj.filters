@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\BOOM.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{B179800F-7701-4830-9976-DAED17D8D7D5}</UniqueIdentifier>
+      <UniqueIdentifier>{50A4B09A-D2B0-449E-BB2F-DAF02DBD2607}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BOOM.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{0A16C345-CB74-4C0E-92F6-A8E213627ADC}</UniqueIdentifier>
+      <UniqueIdentifier>{0D0CCFAD-6A10-49EC-B01C-4020B8CB4628}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\BOOM">
-      <UniqueIdentifier>{A31C9D06-075D-497E-938D-FE5EE9D91393}</UniqueIdentifier>
+      <UniqueIdentifier>{8F0C82B8-1F10-4F67-B31C-32D8B46C128B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BOOM\BOOM.Build.cs">
       <Filter>Source\BOOM</Filter>

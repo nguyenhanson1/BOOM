@@ -1,0 +1,3 @@
+D:\Repos\BOOM\BOOM\Intermediate\Build\Win64\UE4Editor\Development\BOOM\Definitions.BOOM.h
+D:\EpicGame\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\EpicGame\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

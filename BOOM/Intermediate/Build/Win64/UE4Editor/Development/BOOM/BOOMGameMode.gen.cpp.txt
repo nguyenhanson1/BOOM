@@ -1,0 +1,9 @@
+D:\Repos\BOOM\BOOM\Intermediate\Build\Win64\UE4Editor\Development\BOOM\Definitions.BOOM.h
+D:\EpicGame\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\EpicGame\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Repos\BOOM\BOOM\Source\BOOM/BOOMGameMode.h
+D:\EpicGame\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\EpicGame\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\EpicGame\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\EpicGame\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+d:\repos\boom\boom\intermediate\build\win64\ue4editor\inc\boom\BOOMGameMode.generated.h
